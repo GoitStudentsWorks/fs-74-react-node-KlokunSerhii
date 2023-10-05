@@ -2,7 +2,7 @@
   "name": "banda",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KlokunSerhii.github.io/banda/",
+  "homepage": "https://GoitStudentsWorks.github.io/fs-74-react-node-KlokunSerhii/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
